@@ -1,0 +1,11 @@
+replace:
+  - param: "@@app@@"
+    value: "sonarr"
+  - param: "@@namespace@@"
+    value: "sonarr"
+  - param: "@@image@@"
+    value: "8989"
+  - param: "@@container_port@@"
+    value: "8989"
+  - param: "@@service_port@@"
+    value: "8989"
